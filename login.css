@@ -1,0 +1,76 @@
+.main1{
+	background-image: url(img.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+header{
+	color: white;
+	font-size: 50px;
+	font-family: sans-serif;
+	padding: 20px;
+	background: transparent;
+	margin: 0;
+	text-shadow: 0 0 60px white;
+	border-bottom: solid white 2px;
+}
+.table1{
+	box-shadow: 0 0 10px white;
+	border: solid white 2px;
+	border-radius: 10px;
+	background: rgba(49,88,103,0.5);
+	font-size: 20px;
+	text-align: center;
+	margin: 20px;
+	height: 500px;
+	color: white;
+}
+.table1 tbody td{
+	text-align: justify;
+	border: 2px solid black;
+	padding: 10px
+}
+.table1 thead th{
+	border: 2px solid black;
+}
+h2{
+	text-shadow: 0 0 5px white;
+	padding: 10px;
+	color: white;
+}
+input{
+	margin:50px;
+	background: rgba(0,0,0,0.5);
+	padding: 5px 20px;
+	border: none;
+	color: white;
+	outline: none;
+}
+input:hover{
+	box-shadow: 0 0 20px white;
+}
+p{
+	padding: 20px;
+	color: white;
+	font-size: 20px;
+}
+.table2{
+	background:rgba(56,99,91,0.7);
+	width: 100%;
+	color: white;
+	border: 2px solid black;
+	text-align: center;
+}
+.table2 thead td{
+	background: black;
+	color: white;
+	padding: 15px;
+}
+.table2 tbody td{
+	color: white;
+	padding: 15px;
+}
+.ser{
+	
+	background: black;
+}
